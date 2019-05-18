@@ -1,0 +1,10 @@
+//Items
+item.colorful_sigil.name=Colorful Sigil
+item.straight_branch.name=Straight Branch
+item.blue_agate.name=Blue Agate
+item.unrefined_blue_agate.name=Unrefined Blue Agate
+
+//Blocks
+tile.agate_ore.name=Agate Ore
+tile.table.name=Table
+tile.rock_tumbler.name=Rock Tumbler
